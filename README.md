@@ -4,11 +4,13 @@
 Resume Quality Evaluator
 
 Overview
+
 This project aims to evaluate the quality of resumes using Natural Language Processing (NLP) techniques and a simple neural network built with PyTorch . The program classifies resumes into predefined categories (e.g., "Software Engineer," "Data Scientist") and assigns a quality score based on factors such as keyword relevance, completeness, and clarity.
 
 As someone new to PyTorch , I created this project to deepen my understanding of deep learning frameworks and NLP pipelines. By combining tools like SpaCy for text preprocessing and TF-IDF for feature extraction, this project serves as a stepping stone in my machine learning journey.
 
 Features
+
 Resume Classification :
 Predicts the category of a resume (e.g., "Software Engineer") using a neural network trained on labeled data.
 Quality Scoring :
@@ -22,6 +24,7 @@ Dynamic Keyword Extraction :
 Extracts meaningful keywords for each category directly from the dataset using SpaCy.
 
 Learning Goals
+
 This project was created as part of my learning journey with PyTorch and NLP . Here are some key takeaways:
 
 PyTorch Basics : Building and training a simple neural network for classification tasks.
@@ -32,6 +35,7 @@ I hope this project inspires others who are new to machine learning and encourag
 
 
 Future Improvements
+
 While this project provides a solid foundation, there are several ways it can be improved:
 
 Advanced NLP Techniques :

@@ -2,6 +2,7 @@
 
 
 Resume Quality Evaluator
+
 Overview
 This project aims to evaluate the quality of resumes using Natural Language Processing (NLP) techniques and a simple neural network built with PyTorch . The program classifies resumes into predefined categories (e.g., "Software Engineer," "Data Scientist") and assigns a quality score based on factors such as keyword relevance, completeness, and clarity.
 

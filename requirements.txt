@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# PyTorch for neural networks
+torch
+
+# SpaCy for NLP
+spacy
+
+# For reading .docx files
+python-docx
+
+# Jupyter Notebook for interactive development
+notebook
+
+# Download SpaCy English language model (run this manually after installing SpaCy)
+# python -m spacy download en_core_web_sm
